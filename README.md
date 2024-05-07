@@ -9,4 +9,4 @@
 
 运行该脚本后预计会开启 10 多个线程同时清理
 
-#### 注意：本工具仅支持 windows 系统，若您下载并使用该工具，即代表同意[MIT License](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE "MIT License")
+#### 注意：本工具仅支持 windows 系统，若您下载并使用该工具，即代表同意[MIT License](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE "License")
