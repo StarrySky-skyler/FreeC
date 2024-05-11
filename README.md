@@ -12,7 +12,7 @@ I'm starting to learn python. if you have any suggestion, please tell me
 # Install
 
 Download:
-[v1.0.0 latest](https://github.com/StarrySky-skyler/FreeC/releases/download/v1.0.0/FreeC.exe)
+[v1.0.2 latest](https://github.com/StarrySky-skyler/FreeC/releases/download/v1.0.2/FreeC-win-x64.exe)
 
 # Notice
 
