@@ -1,0 +1,36 @@
+name: Auto PyInstaller Windows
+
+on:
+  # Trigger the workflow on new version tag
+  push:
+    tags:
+      - "v*.*.*"
+
+  # Allow to run this workflow manually in web browser
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12.3'
+          architecture: 'x64'
+
+      - name: Install pyinstaller
+        run: |
+          pip install pyinstaller
+
+      - name: Build
+        run: |
+          python -m PyInstaller main.spec
+      
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/FreeC-win-x64.exe
