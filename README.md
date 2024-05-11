@@ -1,6 +1,6 @@
 # Free C
 
-![freec](https://counter.seku.su/cmoe?name=freec&theme=gelbooru)
+![freec](https://starry-trace-sky-moe-counter.vercel.app/cmoe?name=freec&theme=gelbooru-h)
 
 [![MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
 
