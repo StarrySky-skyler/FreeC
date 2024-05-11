@@ -9,6 +9,9 @@ on:
   # Allow to run this workflow manually in web browser
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-windows:
     runs-on: windows-latest
