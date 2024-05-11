@@ -1,5 +1,9 @@
 # Free C
 
+![freec](https://counter.seku.su/cmoe?name=freec&theme=gelbooru)
+
+[![MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
+
 Free C is used to clean C:\
 It will delete all .temp .log and other useless files
 
@@ -13,5 +17,3 @@ Download:
 # Notice
 
 Free C only supports windows
-
-# [MIT License](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE "MIT License")
