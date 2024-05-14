@@ -21,5 +21,5 @@ Free C 是一个清理 C 盘的小工具
 
 # 注意
 
-1. Free C only supports **windows**
+1. Free C 仅支持 **windows**
 2. 请以管理员身份运行
