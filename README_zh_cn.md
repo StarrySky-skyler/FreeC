@@ -4,7 +4,7 @@
 
 [English](./README.md) | 中文(简体)
 
-[![MIT License](https://img.shields.io/badge/许可证-MIT-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
+[![GPL-3.0 License](https://img.shields.io/badge/许可证-GPL_3.0-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
 
 Free C 是一个清理 C 盘的小工具
 
