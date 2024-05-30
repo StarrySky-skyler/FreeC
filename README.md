@@ -4,7 +4,7 @@
 
 English | [中文(简体)](./README_zh_cn.md)
 
-[![MIT License](https://img.shields.io/badge/LICENSE-MIT-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
+[![GPL-3.0 License](https://img.shields.io/badge/LICENSE-GPL_3.0-green.svg?style=for-the-badge)](https://github.com/StarrySky-skyler/FreeC/blob/main/LICENSE)
 
 Free C is used to clean C:
 
